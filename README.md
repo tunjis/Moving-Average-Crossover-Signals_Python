@@ -21,7 +21,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 ## Features
 
-* Fetches historical **daily adjusted close** data for the Mag 7 stocks (GOOGL, AMZN, AAPL, META, MSFT, NVDA, TSLA) over the past year.
+* Fetches historical **daily adjusted close** data for the Mag 7 stocks (`GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`) over the past year.
 * Calculates 50-day and 200-day Simple Moving Averages (SMA).
 * **Generates Buy/Sell signals** based on the 50/200 SMA crossover points.
 * Visualises the stock price, SMAs, and signals clearly on a chart.
