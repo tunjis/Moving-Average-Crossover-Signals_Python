@@ -62,15 +62,15 @@ Created by [tunjis](https://github.com/tunjis)
 * ⚡  AI enthusiast   
 
 
-## 🛠️ Technical Skills
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/> **Python** </a>  
-| <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36"/> **Microsoft Excel** </a> | Data wrangling, pivot tables, dashboards |
-| <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/> **MySQL** </a> | Database querying & management          |
-| <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36"/> **Tableau** </a> | Interactive data visualization          |
-| <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/power-bi.png" width="36" height="36"/> **Power BI** </a> | Business intelligence dashboards        |            |
-| <a href="https://cloud.google.com/" target="_blank"><a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36"/> **Google Cloud** </a> | Cloud services & APIs                   |
-| <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36"/> **Microsoft Azure** </a> | Cloud computing & services              |                     |
-| <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36"/> **Google Colab** </a> | Interactive Python notebooks in the cloud |
+### 🛠️ Technical Skills
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/> **Python** </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36"/> **Microsoft Excel** </a> 
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/> **MySQL** </a> 
+<a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36"/> **Tableau** </a> 
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/power-bi.png" width="36" height="36"/> **Power BI** </a> 
+<a href="https://cloud.google.com/" target="_blank"><a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36"/> **Google Cloud** </a> 
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36"/> **Microsoft Azure** </a> 
+<a href="https://colab.research.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36"/> **Google Colab** </a>  
 
 
 ### Socials
