@@ -49,18 +49,16 @@ This project serves as a practical demonstration of implementing a basic trading
 ![Example Plot Showing Buy/Sell Signals](image/signal_plot_example.png)  
 
 
-Created by [tunjis](https://github.com/tunjis)  
+Created by [tunjis](https://github.com/tunjis)
 
 *Data’s the new oil. I’m the refinery.*
 
-
-* 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank"> **London**
-* 🖥️  See my portfolio at [Coded-Portfolio](http://github.com/tunjis)
-* ✉️  Contact me at [jstunjis@gmail.com](mailto:jstunjis@gmail.com)
-* 🧠  Learning Data Science
-* 🤝  Open to collaborating on interesting projects
-* ⚡  AI enthusiast   
-
+* 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
+* 🖥️  See my portfolio at [Coded-Portfolio](https://github.com/tunjis)
+* ✉️  Contact me at [justin.craciun@gmail.com](mailto:justin.craciun@gmail.com)
+* 🧠  Learning Data Science
+* 🤝  Open to collaborating on interesting projects
+* ⚡  AI enthusiast
 
 ### 🛠️ Technical Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
