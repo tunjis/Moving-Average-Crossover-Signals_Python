@@ -63,36 +63,32 @@ Created by [tunjis](https://github.com/tunjis)
 
 
 ### 🛠️ Technical Skills
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" /> **Python** </a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" ><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36"/> **Microsoft Excel** </a> 
-<a href="https://www.mysql.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/> **MySQL** </a> 
-<a href="https://www.tableau.com/" ><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36"/> **Tableau** </a> 
-<a href="https://powerbi.microsoft.com/" ><img src="https://img.icons8.com/color/24/000000/power-bi.png" width="36" height="36"/> **Power BI** </a> 
-<a href="https://cloud.google.com/" ><a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36"/> **Google Cloud** </a> 
-<a href="https://azure.microsoft.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36"/> **Microsoft Azure** </a> 
-<a href="https://colab.research.google.com/" ><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36"/> **Google Colab** </a>  
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Microsoft Excel"/> **Microsoft Excel** </a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/> **MySQL** </a>&nbsp;
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36" alt="Tableau"/> **Tableau** </a>&nbsp;
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/power-bi.png" width="36" height="36" alt="Power BI"/> **Power BI** </a>&nbsp;
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud"/> **Google Cloud** </a>&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Microsoft Azure"/> **Microsoft Azure** </a>&nbsp;
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;
 
 ### Socials
 
-<a href="https://www.github.com/tunjis/" rel="noreferrer" style="margin-right: 5px; vertical-align: middle;">
+<a href="https://www.github.com/tunjis/" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
     <img alt="GitHub Profile" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </picture>
-</a>
-
-
-<a href="https://linkedin.com/in/justincraciun/" rel="noreferrer" style="margin-right: 5px; vertical-align: middle;">
+</a>&nbsp;
+<a href="https://linkedin.com/in/justincraciun/" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img alt="LinkedIn Profile" title="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img alt="LinkedIn Profile" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
-</a>
-  
+</a>&nbsp;&nbsp;
+
 ### Support Me
 
-<a style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/tunjis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>  
-
+<a href="https://www.buymeacoffee.com/tunjis" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/></a>&nbsp;&nbsp;
