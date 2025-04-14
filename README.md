@@ -35,22 +35,25 @@ This project serves as a practical demonstration of implementing a basic trading
     * `pandas`
     * `matplotlib`
 
-## Installation
+## Installation (for Local Use)
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/tunjis/Mag7-MovingAverage-Signals.git](https://github.com/tunjis/Mag7-MovingAverage-Signals.git)
-    cd Mag7-MovingAverage-Signals
-    ```
+If you want to run this notebook *outside* of Google Colab on your own computer:
 
-2.  **Install the required libraries:**
+1.  **Clone the repository (optional but good practice):**
     ```bash
-    pip install yfinance pandas matplotlib
+    git clone [https://github.com/tunjis/Moving-Average-Crossover-Signals.git](https://github.com/tunjis/Moving-Average-Crossover-Signals.git)
+    cd Moving-Average-Crossover-Signals
     ```
-    *(Remember to activate your virtual environment first if you're using one)*
+    *(Alternatively, you can just download the `.ipynb` file directly from GitHub).*
+
+2.  **Set up Environment & Install Libraries:**
+    * Ensure you have Python 3 and Jupyter Notebook/Lab installed.
+    * Install the required libraries (preferably within a virtual environment):
+        ```bash
+        pip install yfinance pandas matplotlib notebook
+        ```
 
 ## Usage
-
 1.  Navigate to the project directory in your terminal.
 2.  Run the script:
     ```bash
