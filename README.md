@@ -63,7 +63,7 @@ Created by [tunjis](https://github.com/tunjis)
 
 
 ### 🛠️ Technical Skills
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" /></a> 
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" /> **Python** </a> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36"/> **Microsoft Excel** </a> 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/> **MySQL** </a> 
 <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36"/> **Tableau** </a> 
