@@ -35,46 +35,24 @@ This project serves as a practical demonstration of implementing a basic trading
     * `pandas`
     * `matplotlib`
 
-## Installation (for Local Use)
+## Usage (in Google Colab)
 
-If you want to run this notebook *outside* of Google Colab on your own computer:
-
-1.  **Clone the repository (optional but good practice):**
-    ```bash
-    git clone [https://github.com/tunjis/Moving-Average-Crossover-Signals.git](https://github.com/tunjis/Moving-Average-Crossover-Signals.git)
-    cd Moving-Average-Crossover-Signals
-    ```
-    *(Alternatively, you can just download the `.ipynb` file directly from GitHub).*
-
-2.  **Set up Environment & Install Libraries:**
-    * Ensure you have Python 3 and Jupyter Notebook/Lab installed.
-    * Install the required libraries (preferably within a virtual environment):
-        ```bash
-        pip install yfinance pandas matplotlib notebook
-        ```
-
-## Usage
-1.  Navigate to the project directory in your terminal.
-2.  Run the script:
-    ```bash
-    python your_script_name.py
-    ```
-    *(Replace `your_script_name.py` with the actual name of your Python file, e.g., `ma_signal_generator.py`)*
-
-The script will then execute for each of the Mag 7 stocks. For every stock, it will display a plot showing the price history, the moving averages, and markers indicating the calculated **Buy (^) and Sell (v) signals**. You'll need to close each plot window before the script moves on to the next stock.
+1.  **Open the Notebook:**
+    * The easiest way is often to click the "Open in Colab" badge displayed above the file preview on GitHub (if it was included when you saved from Colab).
+    * Alternatively: Go to [Google Colab](https://colab.research.google.com/), select `File` -> `Open notebook`, choose the `GitHub` tab, paste the repository URL (`https://github.com/tunjis/Moving-Average-Crossover-Signals`), and select the `Moving_Average_Crossover_Signals.ipynb` file.
+2.  **Run the Cells:**
+    * Once the notebook is open in Colab, run the code cells sequentially from top to bottom (you can use `Shift+Enter` or click the 'Run' button for each cell).
+3.  **View Output:**
+    * As the code runs, it will process each stock ticker. For each one, it will display a plot showing the price history, moving averages, and the calculated **Buy (^) and Sell (v) signals**.
 
 ## Example Output
 
 *(Strongly recommended!)*
 
-Adding a screenshot of a generated plot makes it immediately clear what the script produces.
-1.  Run your script.
-2.  Take a screenshot of one of the charts showing the signals.
-3.  Save the image (e.g., `signal_plot_example.png`) in the project folder.
-4.  Include it here using this Markdown line:
-    ```markdown
-    ![Example Plot Showing Buy/Sell Signals](signal_plot_example.png)
-    ```
+If you add a screenshot image (e.g., named `signal_plot_example.png`) to your repository, you can display it here using this Markdown line:
+
+```markdown
+![Example Plot Showing Buy/Sell Signals](signal_plot_example.png)
 
 ---
 
