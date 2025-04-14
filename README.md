@@ -46,12 +46,7 @@ This project serves as a practical demonstration of implementing a basic trading
     * As the code runs, it will process each stock ticker. For each one, it will display a plot showing the price history, moving averages, and the calculated **Buy (^) and Sell (v) signals**.
 
 ## Example Output
-![Example Plot Showing Buy/Sell Signals](signal_plot_example.png)
-```![Example Plot Showing Buy/Sell Signals](signal_plot_example.png)
-
-```
-
-
+![Example Plot Showing Buy/Sell Signals](signal_plot_example.png)  
 Created by [tunjis](https://github.com/tunjis)  
 
 *Data’s the new oil. I’m the refinery.*
