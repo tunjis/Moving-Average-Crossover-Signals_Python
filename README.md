@@ -84,11 +84,11 @@ Created by [tunjis](https://github.com/tunjis)
 </a>
 
 
-<a href="https://linkedin.com/in/justincraciun/" target="_blank" rel="noreferrer" style="margin-right: 5px; vertical-align: middle;">
+<a href="https://linkedin.com/in/justincraciun/" rel="noreferrer" style="margin-right: 5px; vertical-align: middle;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img alt="LinkedIn Profile" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img alt="LinkedIn Profile" title="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
 </a>
   
