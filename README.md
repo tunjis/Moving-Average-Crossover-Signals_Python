@@ -47,11 +47,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 ## Example Output
 
-*(Strongly recommended!)*
-
-If you add a screenshot image (e.g., named `signal_plot_example.png`) to your repository, you can display it here using this Markdown line:
-
-```markdown
+```![Example Plot Showing Buy/Sell Signals](signal_plot_example.png)
 
 ```
 
