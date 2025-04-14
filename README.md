@@ -38,8 +38,7 @@ This project serves as a practical demonstration of implementing a basic trading
 ## Usage (in Google Colab)
 
 1.  **Open the Notebook:**
-    * The easiest way is often to click the "Open in Colab" badge displayed above the file preview on GitHub (if it was included when you saved from Colab).
-    * Alternatively: Go to [Google Colab](https://colab.research.google.com/), select `File` -> `Open notebook`, choose the `GitHub` tab, paste the repository URL (`https://github.com/tunjis/Moving-Average-Crossover-Signals`), and select the `Moving_Average_Crossover_Signals.ipynb` file.
+    * The easiest way is often to click the "Open in Colab" badge displayed above the file preview on GitHub (if it was included when you saved from Colab).  
 2.  **Run the Cells:**
     * Once the notebook is open in Colab, run the code cells sequentially from top to bottom (you can use `Shift+Enter` or click the 'Run' button for each cell).
 3.  **View Output:**
