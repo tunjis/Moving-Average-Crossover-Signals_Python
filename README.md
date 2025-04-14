@@ -29,11 +29,12 @@ This project serves as a practical demonstration of implementing a basic trading
 
 ## Requirements
 
-* Python 3.x
+* Access to **Google Colab** OR a local **Python 3.x** environment with **Jupyter Notebook** or **JupyterLab** installed.
 * Required Python libraries:
     * `yfinance`
     * `pandas`
     * `matplotlib`
+    *(Note: Google Colab often comes with these pre-installed. If running locally, you'll need to install them).*
 
 ## Installation
 
