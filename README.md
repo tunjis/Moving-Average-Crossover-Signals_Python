@@ -3,13 +3,9 @@ This Python script focuses on generating **Buy and Sell signals** for stocks bas
 
 ## Description
 
-This Python script focuses on generating **Buy and Sell signals** for the **Magnificent 7 (Mag 7)** stocks, based on a classic **Moving Average Crossover** strategy. The specific stocks analysed by default are: `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`.
+This Python script focuses on generating **Buy and Sell signals** for the **Magnificent 7 (Mag 7)** stocks, based on a classic **Moving Average Crossover** strategy.  
 
-Feel free to modify the script and replace these ticker symbols with others you wish to analyse.
-
-The script uses historical daily data fetched from **Yahoo Finance (`yfinance`)**. As with any free data source, occasional inaccuracies might be present.
-
-**Important:** This code is provided strictly for **educational and illustrative purposes**. It demonstrates a technical analysis concept and the generated signals **should absolutely not be used for making investment decisions.** Trading involves significant risk.
+The specific stocks analysed by default are: `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`. Feel free to modify the script and replace these ticker symbols with others you wish to analyse.  
 
 The core logic involves:
 1.  Fetching the last year's worth of **daily adjusted close** price data from Yahoo Finance (`yfinance`).
@@ -19,7 +15,7 @@ The core logic involves:
 
 The script then visualises the results, plotting the closing price, the SMAs, and clearly marking the generated Buy/Sell signals on the chart for each stock using `matplotlib`.
 
-This project serves as a practical demonstration of implementing a basic trading signal strategy in Python.
+This project serves as a practical demonstration of implementing a basic trading signal strategy in Python. It uses historical daily data fetched from **Yahoo Finance (`yfinance`)**. As with any free data source, occasional inaccuracies might be present.  
 
 **Disclaimer:** This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.
 
