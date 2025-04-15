@@ -51,12 +51,16 @@ This project serves as a practical demonstration of implementing a basic trading
 
 ### Created by [tunjis](https://github.com/tunjis) 
 
+-------------
+
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
 * 🖥️  See my portfolio at [Data’s the new oil. I’m the refinery.](https://github.com/tunjis)
-* ✉️  Contact me via my [LinkedIn profile](https://linkedin.com/in/justincraciun/)
+* 📫  Contact me via my [LinkedIn profile](https://linkedin.com/in/justincraciun/)
 * 🧠  Learning Data Science
 * 🤝  Open to collaborating on interesting projects
 * ⚡  AI enthusiast
+
+-------------
 
 ### 🛠️ Technical Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
@@ -67,7 +71,9 @@ This project serves as a practical demonstration of implementing a basic trading
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Microsoft Azure"/> **Microsoft Azure** </a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud"/> **Google Cloud** </a>&nbsp;
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;  
+
+-------------
 
 ### Socials
 
@@ -84,7 +90,9 @@ This project serves as a practical demonstration of implementing a basic trading
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
     <img alt="LinkedIn Profile" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;  
+
+-------------
 
 ### Support Me
 
