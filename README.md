@@ -52,7 +52,7 @@ This project serves as a practical demonstration of implementing a basic trading
 ### Created by [tunjis](https://github.com/tunjis) 
 
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
-* 🖥️  See my portfolio at [*Data’s the new oil. I’m the refinery.*](https://github.com/tunjis)
+* 🖥️  See my portfolio at [Data’s the new oil. I’m the refinery.](https://github.com/tunjis)
 * ✉️  Contact me via my [LinkedIn profile](https://linkedin.com/in/justincraciun/)
 * 🧠  Learning Data Science
 * 🤝  Open to collaborating on interesting projects
