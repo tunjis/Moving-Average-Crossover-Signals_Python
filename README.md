@@ -4,8 +4,8 @@ This Python script generates **Buy** and **Sell** signals for stocks based on th
 
 ## 🧾 Description
 
-The specific stocks analysed by default are the **Magnificent 7 (Mag 7): `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`.  
-✏️ Want to Customize It? Just replace the stock tickers in the stocks_to_check list in the script. Everything else works out of the box.  
+The specific stocks analysed by default are the **Magnificent 7 (Mag 7):** `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`.  
+✏️ Want to Customize It? Just replace the stock tickers in the `stocks_to_check` list in the script. Everything else works out of the box.  
 
 The core logic involves:
 1.  Fetching dynamically the last year's worth of **daily adjusted close** price data from Yahoo Finance (`yfinance`).
