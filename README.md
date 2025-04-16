@@ -16,15 +16,17 @@ The script then visualises the results, plotting the closing price, the SMAs, an
 
 This project serves as a practical demonstration of implementing a basic trading signal strategy in Python. It uses historical daily data fetched dinamically from **Yahoo Finance (`yfinance`)**. As with any free data source, occasional inaccuracies might be present.  
 
-## Features
+## 🚀 Features
 
-* Fetches historical **daily adjusted close** data for the Mag 7 stocks (`GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`) over the past year.
-* Calculates 50-day and 200-day Simple Moving Averages (SMA).
-* **Generates Buy/Sell signals** based on the 50/200 SMA crossover points.
-* Visualises the stock price, SMAs, and signals clearly on a chart.
-* Includes basic error handling for data fetching.
+- Automatically downloads 1 year of historical price data for each stock.
+- Calculates 50-day and 200-day simple moving averages.
+- Generates **Buy** and **Sell** signals based on crossover strategy:
+  - **Buy**: when 50-day MA crosses above 200-day MA
+  - **Sell**: when 50-day MA crosses below 200-day MA
+- Visualizes each stock's close price, moving averages, and buy/sell signals.
+- Plots are generated for each stock individually.
 
-## Requirements
+## 📦 Requirements
 
 * Access to **Google Colab** OR a local **Python 3.x** environment 
 * Required Python libraries:
@@ -51,7 +53,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 *⚠️ Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*  
 
-### Created by [tunjis](https://github.com/tunjis) 
+### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
 -------------
 
