@@ -2,7 +2,7 @@
 
 This Python script generates **Buy** and **Sell** signals for stocks based on the classic **50/200 Simple Moving Average (SMA) crossover** strategy.
 
-## Description
+## 🧾 Description
 
 The specific stocks analysed by default are the **Magnificent 7 (Mag 7): `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`. Feel free to modify the script and replace these ticker symbols with others you wish to analyse.  
 
@@ -34,7 +34,7 @@ This project serves as a practical demonstration of implementing a basic trading
     * `pandas`
     * `matplotlib`
 
-## 🚀 Usage (in Google Colab)
+## 🛠 Usage (in Google Colab)
 
 1.  **Open the Notebook:**
     * Click the badge below to open this notebook directly in Google Colab:
@@ -98,6 +98,6 @@ This project serves as a practical demonstration of implementing a basic trading
 
 -------------
 
-### Support Me
+### ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/tunjis" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/></a>&nbsp;&nbsp;
