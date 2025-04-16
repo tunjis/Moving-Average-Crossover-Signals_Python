@@ -1,6 +1,6 @@
-# Moving-Average-Crossover-Signals <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
+# 📈 Moving-Average-Crossover-Signals <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
 
-This Python script generates **Buy and Sell signals** for stocks based on a classic **Moving Average Crossover** strategy.  
+This Python script generates **Buy** and **Sell** signals for stocks based on the classic **50/200 Simple Moving Average (SMA) crossover** strategy.
 
 ## Description
 
@@ -32,7 +32,7 @@ This project serves as a practical demonstration of implementing a basic trading
     * `pandas`
     * `matplotlib`
 
-## Usage (in Google Colab)
+## 🚀 Usage (in Google Colab)
 
 1.  **Open the Notebook:**
     * Click the badge below to open this notebook directly in Google Colab:
@@ -49,7 +49,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 -------------
 
-*Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*  
+*⚠️ Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*  
 
 ### Created by [tunjis](https://github.com/tunjis) 
 
