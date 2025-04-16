@@ -1,8 +1,8 @@
-#📈 Moving-Average-Crossover-Signals <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
+# 📈 Moving-Average-Crossover-Signals <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
 
 This Python script generates **Buy** and **Sell** signals for stocks based on the classic **50/200 Simple Moving Average (SMA) crossover** strategy.
 
-##🧾 Description
+## 🧾 Description
 
 The specific stocks analysed by default are the **Magnificent 7 (Mag 7): `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`. Feel free to modify the script and replace these ticker symbols with others you wish to analyse.  
 
@@ -16,7 +16,7 @@ The script then visualises the results, plotting the closing price, the SMAs, an
 
 This project serves as a practical demonstration of implementing a basic trading signal strategy in Python. It uses historical daily data fetched dinamically from **Yahoo Finance (`yfinance`)**. As with any free data source, occasional inaccuracies might be present.  
 
-##🚀 Features
+## 🚀 Features
 
 - Automatically downloads 1 year of historical price data for each stock.
 - Calculates 50-day and 200-day simple moving averages.
@@ -26,7 +26,7 @@ This project serves as a practical demonstration of implementing a basic trading
 - Visualizes each stock's close price, moving averages, and buy/sell signals.
 - Plots are generated for each stock individually.
 
-##📦 Requirements
+## 📦 Requirements
 
 * Access to **Google Colab** OR a local **Python 3.x** environment 
 * Required Python libraries:
@@ -34,7 +34,7 @@ This project serves as a practical demonstration of implementing a basic trading
     * `pandas`
     * `matplotlib`
 
-##🛠 Usage (in Google Colab)
+## 🛠 Usage (in Google Colab)
 
 1.  **Open the Notebook:**
     * Click the badge below to open this notebook directly in Google Colab:
@@ -44,7 +44,7 @@ This project serves as a practical demonstration of implementing a basic trading
 3.  **View Output:**
     * As the code runs, it will process each stock ticker. For each one, it will display a plot showing the price history, moving averages, and the calculated **Buy (^) and Sell (v) signals**.
 
-## Example Output
+## 📊 Example Output
 ![Example Plot Showing Buy/Sell Signals](image/signal_plot_example.png)  
 
 
@@ -53,7 +53,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 *⚠️ Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*  
 
-###🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
+### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
 -------------
 
@@ -79,7 +79,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 -------------
 
-### Socials
+### 🔁 Socials
 
 <a href="https://www.github.com/tunjis/" target="_blank" rel="noreferrer">
   <picture>
@@ -98,6 +98,6 @@ This project serves as a practical demonstration of implementing a basic trading
 
 -------------
 
-###☕ Support Me
+### ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/tunjis" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/></a>&nbsp;&nbsp;
