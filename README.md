@@ -35,10 +35,10 @@ This project serves as a practical demonstration of implementing a basic trading
     * `pandas`
     * `matplotlib`
 
-## 🛠 Usage (in Google Colab)
+## 🛠 Usage  
 
 1.  **Open the Notebook:**
-    * Click the badge below to open this notebook directly in Google Colab:
+    * Click the badge to open this notebook directly in Google Colab:
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tunjis/Moving-Average-Crossover-Signals/blob/main/Moving_Average_Crossover_Signals.ipynb)  
 2.  **Run the Cells:**
     * Once the notebook is open in Colab, run the code cells sequentially from top to bottom (you can use `Shift+Enter` or click the 'Run' button for each cell).
