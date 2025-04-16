@@ -16,10 +16,6 @@ The script then visualises the results, plotting the closing price, the SMAs, an
 
 This project serves as a practical demonstration of implementing a basic trading signal strategy in Python. It uses historical daily data fetched dinamically from **Yahoo Finance (`yfinance`)**. As with any free data source, occasional inaccuracies might be present.  
 
--------------
-
-*Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*
-
 ## Features
 
 * Fetches historical **daily adjusted close** data for the Mag 7 stocks (`GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`) over the past year.
@@ -49,6 +45,11 @@ This project serves as a practical demonstration of implementing a basic trading
 ## Example Output
 ![Example Plot Showing Buy/Sell Signals](image/signal_plot_example.png)  
 
+
+
+-------------
+
+*Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*  
 
 ### Created by [tunjis](https://github.com/tunjis) 
 
