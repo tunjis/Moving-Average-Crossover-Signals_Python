@@ -7,7 +7,7 @@ This Python script generates **Buy and Sell signals** for stocks based on a clas
 The specific stocks analysed by default are the **Magnificent 7 (Mag 7): `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`. Feel free to modify the script and replace these ticker symbols with others you wish to analyse.  
 
 The core logic involves:
-1.  Fetching dynamic the last year's worth of **daily adjusted close** price data from Yahoo Finance (`yfinance`).
+1.  Fetching dynamically the last year's worth of **daily adjusted close** price data from Yahoo Finance (`yfinance`).
 2.  Calculating the 50-day and 200-day Simple Moving Averages (SMA).
 3.  Generating **'Buy' signals** when the 50-day SMA crosses above the 200-day SMA.
 4.  Generating **'Sell' signals** when the 50-day SMA crosses below the 200-day SMA.
