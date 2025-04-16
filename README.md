@@ -1,11 +1,10 @@
 # Moving-Average-Crossover-Signals <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
-This <a href="https://www.python.org/" target="_blank" rel="noreferrer"> **Python** </a>&nbsp;script focuses on generating **Buy and Sell signals** for stocks based on a classic **Moving Average Crossover** strategy.  
+
+This <a href="https://www.python.org/" target="_blank" rel="noreferrer"> **Python** </a>&nbsp; script generates **Buy and Sell signals** for stocks based on a classic **Moving Average Crossover** strategy.  
 
 ## Description
 
-This Python script focuses on generating **Buy and Sell signals** for the **Magnificent 7 (Mag 7)** stocks, based on a classic **Moving Average Crossover** strategy.  
-
-The specific stocks analysed by default are: `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`. Feel free to modify the script and replace these ticker symbols with others you wish to analyse.  
+The specific stocks analysed by default are the **Magnificent 7 (Mag 7): `GOOGL`, `AMZN`, `AAPL`, `META`, `MSFT`, `NVDA`, and `TSLA`. Feel free to modify the script and replace these ticker symbols with others you wish to analyse.  
 
 The core logic involves:
 1.  Fetching the last year's worth of **daily adjusted close** price data from Yahoo Finance (`yfinance`).
