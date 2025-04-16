@@ -67,7 +67,7 @@ This project serves as a practical demonstration of implementing a basic trading
 
 -------------
 
-###🛠️ Technical Skills
+### 🛠️ Technical Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Microsoft Excel"/> **Microsoft Excel** </a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/> **MySQL** </a>&nbsp;
