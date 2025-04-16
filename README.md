@@ -1,5 +1,5 @@
 # Moving-Average-Crossover-Signals <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
-This <a href="https://www.python.org/" target="_blank" rel="noreferrer"></> **Python** </a>&nbsp; script focuses on generating **Buy and Sell signals** for stocks based on a classic **Moving Average Crossover** strategy.  
+This <a href="https://www.python.org/" target="_blank" rel="noreferrer"> **Python** </a>&nbsp; script focuses on generating **Buy and Sell signals** for stocks based on a classic **Moving Average Crossover** strategy.  
 
 ## Description
 
